@@ -17,6 +17,6 @@
 Nuestro diagrama de flujo de pseudocodigo es:
 
  
-![sin titulo](http://i68.tinypic.com/358xk6u.jpg)
+![sin titulo](http://i64.tinypic.com/153w410.jpg)
 
 ***
